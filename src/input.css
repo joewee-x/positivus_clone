@@ -5,3 +5,7 @@
 @theme {
     --font-space : "Space+Grotesk" sans-serif
 }
+
+.scrollbar::-webkit-scrollbar{
+    display: none;
+}
